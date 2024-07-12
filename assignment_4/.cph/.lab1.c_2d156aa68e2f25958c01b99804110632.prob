@@ -1,0 +1,1 @@
+{"name":"Local: lab1","url":"/home/oem/c_programs/assignment_4/lab1.c","tests":[{"id":1698323592885,"input":"5 3\n10 30 40 50 20","output":"30"},{"id":1698323614882,"input":"10 4\n40 10 20 70 80 10 20 70 80 60","output":"40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oem/c_programs/assignment_4/lab1.c","group":"local","local":true}

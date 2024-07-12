@@ -1,0 +1,1 @@
+{"name":"Local: q2","url":"/home/oem/c_programs/assignment_5/q2.c","tests":[{"id":1699306065418,"input":"ab\n4\n1\n2 1 c\n2 2 d\n1","output":"dabc"},{"id":1699306089682,"input":"a\n3\n1\n2 2 z\n1","output":"za"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oem/c_programs/assignment_5/q2.c","group":"local","local":true}
